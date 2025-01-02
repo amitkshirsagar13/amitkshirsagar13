@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-[![Twitter follow @devopsnextgenx](https://img.shields.io/twitter/follow/kshirsagaramitx?style=social)](https://twitter.com/kshirsagaramitx) &nbsp;
-[![Linkedin follow @devopsnextgenx](https://img.shields.io/badge/-devopsnextgenx-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kshirsagar-amit/)](https://www.linkedin.com/in/kshirsagar-amit/) &nbsp;
+[![Twitter follow @kshirsagaramitx](https://img.shields.io/twitter/follow/kshirsagaramitx?style=social)](https://twitter.com/kshirsagaramitx) &nbsp;
+[![Linkedin follow @kshirsagaramit](https://img.shields.io/badge/-kshirsagar--amit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kshirsagar-amit/)](https://www.linkedin.com/in/kshirsagar-amit/) &nbsp;
 
 ### devopsnextgenx
 
